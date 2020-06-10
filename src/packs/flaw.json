@@ -1,0 +1,14 @@
+{
+    "BITD.flaw_principled": "principled",
+    "BITD.flaw_principled_description": "The cohort has an ethic or values that it won\u2019t betray.",
+    "BITD.flaw_principled_long_description": "",
+    "BITD.flaw_savage": "savage",
+    "BITD.flaw_savage_description": "The cohort is excessively violent and cruel.",
+    "BITD.flaw_savage_long_description": "",
+    "BITD.flaw_unreliable": "unreliable",
+    "BITD.flaw_unreliable_description": "The cohort isn\u2019t always available, due to other obligations, stupefaction from their vices, etc.",
+    "BITD.flaw_unreliable_long_description": "",
+    "BITD.flaw_wild": "wild",
+    "BITD.flaw_wild_description": "The cohort is drunken, debauched, and loud-mouthed.",
+    "BITD.flaw_wild_long_description": ""
+}

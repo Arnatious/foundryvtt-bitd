@@ -1,0 +1,138 @@
+{
+  "name": "foundryvtt-bitd",
+  "title": "Blades in the Dark",
+  "description": "Comprehensive game system for Blades in the Dark by John Harper.",
+  "version": "0.1.0",
+  "author": "Ted Kern",
+  "authors": [
+    {
+      "name": "Ted Kern <arnatious>",
+      "email": "tkern@arnatious.com",
+      "url": "https://arnatious.com"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "foundryvtt-bitd.js"
+  ],
+  "styles": [
+    "foundryvtt-bitd.css"
+  ],
+  "packs": [
+    {
+      "name": "ability_character",
+      "label": "Character Abilities",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/ability_character.db",
+      "entity": "Item"
+    },
+    {
+      "name": "ability_crew",
+      "label": "Crew Abilities",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/ability_crew.db",
+      "entity": "Item"
+    },
+    {
+      "name": "background",
+      "label": "Backgrounds",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/background.db",
+      "entity": "Item"
+    },
+    {
+      "name": "claim",
+      "label": "Claims",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/claim.db",
+      "entity": "Item"
+    },
+    {
+      "name": "contact",
+      "label": "Contacts",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/contacts.db",
+      "entity": "Item"
+    },
+    {
+      "name": "crew_upgrade_common",
+      "label": "Crew Upgrades (Common)",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/crew_upgrade_common.db",
+      "entity": "Item"
+    },
+    {
+      "name": "crew_upgrade",
+      "label": "Crew Upgrades (Playbook-Specific)",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/crew_upgrade.db",
+      "entity": "Item"
+    },
+    {
+      "name": "edge",
+      "label": "Edges",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/edge.db",
+      "entity": "Item"
+    },
+    {
+      "name": "flaw",
+      "label": "Flaws",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/flaws.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment_common",
+      "label": "Equipment (Common)",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/equipment_common.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment_playbook",
+      "label": "Equipment (Playbook-Specific)",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/equipment_playbook.db",
+      "entity": "Item"
+    },
+    {
+      "name": "heritage",
+      "label": "Heritages",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/heritage.db",
+      "entity": "Item"
+    },
+    {
+      "name": "playbook_character",
+      "label": "Character Playbooks",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/playbook_character.db",
+      "entity": "Item"
+    },
+    {
+      "name": "playbook_crew",
+      "label": "Crew Playbooks",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/playbook_crew.db",
+      "entity": "Item"
+    },
+    {
+      "name": "vice",
+      "label": "Vices",
+      "system": "foundryvtt-bitd",
+      "path": "./packs/vice.db",
+      "entity": "Item"
+    }
+  ],
+  "languages": [],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.6.2",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "GPLv3",
+  "readme": "",
+  "bugs": "",
+  "changelog": ""
+}

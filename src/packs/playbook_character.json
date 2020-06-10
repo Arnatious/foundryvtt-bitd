@@ -1,0 +1,23 @@
+{
+    "BITD.playbook_character_cutter": "cutter",
+    "BITD.playbook_character_cutter_description": "A dangerous and intimidating fighter",
+    "BITD.playbook_character_cutter_long_description": "",
+    "BITD.playbook_character_hound": "hound",
+    "BITD.playbook_character_hound_description": "A deadly sharpshooter and tracker",
+    "BITD.playbook_character_hound_long_description": "",
+    "BITD.playbook_character_leech": "leech",
+    "BITD.playbook_character_leech_description": "A saboteur and technician",
+    "BITD.playbook_character_leech_long_description": "",
+    "BITD.playbook_character_lurk": "lurk",
+    "BITD.playbook_character_lurk_description": "A stealthy infiltrator and burglar",
+    "BITD.playbook_character_lurk_long_description": "",
+    "BITD.playbook_character_slide": "slide",
+    "BITD.playbook_character_slide_description": "A subtle manipulator and spy",
+    "BITD.playbook_character_slide_long_description": "",
+    "BITD.playbook_character_spider": "spider",
+    "BITD.playbook_character_spider_description": "A devious mastermind",
+    "BITD.playbook_character_spider_long_description": "",
+    "BITD.playbook_character_whisper": "whisper",
+    "BITD.playbook_character_whisper_description": "An arcane adept and channeler",
+    "BITD.playbook_character_whisper_long_description": ""
+}

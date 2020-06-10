@@ -1,0 +1,14 @@
+{
+    "BITD.edge_fearsome": "fearsome",
+    "BITD.edge_fearsome_description": "The cohort is terrifying in aspect and reputation.",
+    "BITD.edge_fearsome_long_description": "",
+    "BITD.edge_independent": "independent",
+    "BITD.edge_independent_description": "The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.",
+    "BITD.edge_independent_long_description": "",
+    "BITD.edge_loyal": "loyal",
+    "BITD.edge_loyal_description": "The cohort can\u2019t be bribed or turned against you.",
+    "BITD.edge_loyal_long_description": "",
+    "BITD.edge_tenacious": "tenacious",
+    "BITD.edge_tenacious_description": "The cohort won\u2019t be deterred from a task.",
+    "BITD.edge_tenacious_long_description": ""
+}

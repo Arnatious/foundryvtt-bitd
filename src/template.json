@@ -1,0 +1,329 @@
+{
+  "Actor": {
+    "types": [
+      "character",
+      "crew"
+    ],
+    "templates": {
+      "common": {
+        "name": "",
+        "special_abilities": [],
+        "experience": {
+          "value": 0,
+          "max": 8
+        },
+        "contacts": [],
+        "xp_triggers": ""
+      }
+    },
+    "character": {
+      "templates": [
+        "common"
+      ],
+      "crew": "",
+      "alias": "",
+      "vice": "",
+      "purveyor": "",
+      "stress": {
+        "value": 0,
+        "max": 9
+      },
+      "traumas": {
+        "value": 0,
+        "max": 4
+      },
+      "healing-clock": {
+        "value": 0,
+        "max": 4
+      },
+      "experience": [
+        0
+      ],
+      "coins": {
+        "value": 0,
+        "max": 4
+      },
+      "coins_stashed": {
+        "value": 0,
+        "max": 40
+      },
+      "loadout": 0,
+      "harm": {
+        "light": {
+          "one": "",
+          "two": ""
+        },
+        "medium": {
+          "one": "",
+          "two": ""
+        },
+        "heavy": {
+          "one": ""
+        },
+        "deadly": {
+          "one": ""
+        }
+      },
+      "armor-uses": {
+        "armor": 0,
+        "heavy": 0,
+        "special": 0
+      },
+      "attributes": {
+        "insight": {
+          "exp": {
+            "value": 0,
+            "max": 6
+          },
+          "skills": {
+            "hunt": {
+              "value": 0,
+              "max": 4
+            },
+            "study": {
+              "value": 0,
+              "max": 4
+            },
+            "survey": {
+              "value": 0,
+              "max": 4
+            },
+            "tinker": {
+              "value": 0,
+              "max": 4
+            }
+          }
+        },
+        "prowess": {
+          "exp": {
+            "value": 0,
+            "max": 6
+          },
+          "skills": {
+            "finesse": {
+              "value": 0,
+              "max": 4
+            },
+            "prowl": {
+              "value": 0,
+              "max": 4
+            },
+            "skirmish": {
+              "value": 0,
+              "max": 4
+            },
+            "wreck": {
+              "value": 0,
+              "max": 4
+            }
+          }
+        },
+        "resolve": {
+          "exp": {
+            "value": 0,
+            "max": 6
+          },
+          "skills": {
+            "attune": {
+              "value": 0,
+              "max": 4
+            },
+            "command": {
+              "value": 0,
+              "max": 4
+            },
+            "consort": {
+              "value": 0,
+              "max": 4
+            },
+            "sway": {
+              "value": 0,
+              "max": 4
+            }
+          }
+        }
+      },
+      "gather_information_prompts": []
+    },
+    "crew": {
+      "reputation": "",
+      "lair": "",
+      "tier": {
+        "value": 0,
+        "max": 4
+      },
+      "hold": "",
+      "contacts": [],
+      "coins": {
+        "max": 4,
+        "value": 0
+      },
+      "vault": {
+        "value": 0,
+        "max": 12
+      },
+      "turf": {
+        "value": 0,
+        "max": 4
+      },
+      "heat": {
+        "value": 0,
+        "max": 9
+      },
+      "wanted": {
+        "value": 0,
+        "max": 4
+      },
+      "crew_upgrades": [],
+      "upgrades": {
+        "lair": [],
+        "training": [],
+        "quality": []
+      },
+      "cohorts": [],
+      "hunting_grounds": "",
+      "preferred_scores": []
+    }
+  },
+  "Item": {
+    "types": [
+      "equipment",
+      "character_playbook",
+      "ability",
+      "heritage",
+      "background",
+      "vice",
+      "crew_playbook",
+      "contact",
+      "cohort",
+      "harm",
+      "edge",
+      "flaw",
+      "claim"
+    ],
+    "templates": {
+      "default": {
+        "name": "",
+        "description": "",
+        "long_description": ""
+      },
+      "upgrade": {
+        "price": 1,
+        "multiples": 1,
+        "taken": 0
+      },
+      "playbook": {
+        "experience_triggers": [],
+        "special_abilities": [],
+        "playbook_upgrades": [],
+        "contacts": []
+      }
+    },
+    "equipment": {
+      "templates": [
+        "default",
+        "upgrade"
+      ]
+    },
+    "character_playbook": {
+      "templates": [
+        "default",
+        "playbook"
+      ],
+      "base_skills": {
+        "hunt": 0,
+        "study": 0,
+        "survey": 0,
+        "tinker": 0,
+        "finesse": 0,
+        "prowl": 0,
+        "skirmish": 0,
+        "wreck": 0,
+        "attune": 0,
+        "command": 0,
+        "consort": 0,
+        "sway": 0
+      }
+    },
+    "heritage": {
+      "templates": [
+        "default"
+      ]
+    },
+    "background": {
+      "templates": [
+        "default"
+      ]
+    },
+    "vice": {
+      "templates": [
+        "default"
+      ]
+    },
+    "cohort": {
+      "templates": [
+        "default"
+      ],
+      "gang_or_expert": "",
+      "type": [],
+      "edges": [],
+      "flaws": [],
+      "harm": {
+        "weakened": false,
+        "impaired": false,
+        "broken": false,
+        "dead": false
+      },
+      "armor": false
+    },
+    "contact": {
+      "templates": [
+        "default"
+      ],
+      "relationship": 0
+    },
+    "ability": {
+      "templates": [
+        "default",
+        "upgrade"
+      ]
+    },
+    "crew_playbook": {
+      "templates": [
+        "default",
+        "playbook"
+      ],
+      "claims": [],
+      "starting_upgrades": []
+    },
+    "harm": {
+      "templates": [
+        "default"
+      ]
+    },
+    "edge": {
+      "templates": [
+        "default"
+      ]
+    },
+    "flaw": {
+      "templates": [
+        "default"
+      ]
+    },
+    "claim": {
+      "templates": [
+        "default",
+        "upgrade"
+      ],
+      "index": 0,
+      "connections": {
+        "up": false,
+        "down": false,
+        "left": false,
+        "right": false
+      },
+      "internal_name": ""
+    }
+  }
+}
