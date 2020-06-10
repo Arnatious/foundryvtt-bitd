@@ -1,77 +1,202 @@
-{
-    "BITD.crew_upgrade_assassins_rigging": "assassins rigging",
-    "BITD.crew_upgrade_assassins_rigging_description": "You get 2 free load worth of weapon or gear items.",
-    "BITD.crew_upgrade_assassins_rigging_long_description": "For example, you could carry a pistol (a weapon) and burglary tools (gear) for zero load.",
-    "BITD.crew_upgrade_barge": "barge",
-    "BITD.crew_upgrade_barge_description": "Add *mobility* to your lair. You can move it to a new location as a downtime activity.",
-    "BITD.crew_upgrade_barge_long_description": "",
-    "BITD.crew_upgrade_bravos_rigging": "bravos rigging",
-    "BITD.crew_upgrade_bravos_rigging_description": "You get 2 free load worth of weapon or armor items.",
-    "BITD.crew_upgrade_bravos_rigging_long_description": "For example, you could carry a sword & pistol or wear normal armor for zero load.",
-    "BITD.crew_upgrade_camouflage": "camouflage",
-    "BITD.crew_upgrade_camouflage_description": "Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).",
-    "BITD.crew_upgrade_camouflage_long_description": "",
-    "BITD.crew_upgrade_composed": "composed",
-    "BITD.crew_upgrade_composed_description": "Each PC gets +1 stress box. This costs three upgrades to unlock, not just one.",
-    "BITD.crew_upgrade_composed_long_description": "",
-    "BITD.crew_upgrade_cult_rigging": "cult rigging",
-    "BITD.crew_upgrade_cult_rigging_description": "You get 2 free load worth of document or implement items.",
-    "BITD.crew_upgrade_cult_rigging_long_description": "For example, you could carry a profane book of curses and a demon\u2019s hand for zero load.",
-    "BITD.crew_upgrade_dedicated_crafters": "dedicated crafters",
-    "BITD.crew_upgrade_dedicated_crafters_description": "",
-    "BITD.crew_upgrade_dedicated_crafters_long_description": "",
-    "BITD.crew_upgrade_elite_adepts": "elite adepts",
-    "BITD.crew_upgrade_elite_adepts_description": "All of your cohorts with the Adepts type get **+1d** to quality rolls for Adept-related actions.",
-    "BITD.crew_upgrade_elite_adepts_long_description": "",
-    "BITD.crew_upgrade_elite_rooks": "elite rooks",
-    "BITD.crew_upgrade_elite_rooks_description": "All of your cohorts with the Rooks type get **+1d** to quality rolls for Rook-related actions.",
-    "BITD.crew_upgrade_elite_rooks_long_description": "",
-    "BITD.crew_upgrade_elite_rovers": "elite rovers",
-    "BITD.crew_upgrade_elite_rovers_description": "All of your cohorts with the Rovers type get **+1d** to quality rolls for Rover-related actions.",
-    "BITD.crew_upgrade_elite_rovers_long_description": "",
-    "BITD.crew_upgrade_elite_skulks": "elite skulks",
-    "BITD.crew_upgrade_elite_skulks_description": "All of your cohorts with the Skulks type get **+1d** to quality rolls for Skulk-related actions.",
-    "BITD.crew_upgrade_elite_skulks_long_description": "",
-    "BITD.crew_upgrade_elite_thugs": "elite thugs",
-    "BITD.crew_upgrade_elite_thugs_description": "All of your cohorts with the Thugs type get **+1d** to quality rolls for Thug-related actions.",
-    "BITD.crew_upgrade_elite_thugs_long_description": "",
-    "BITD.crew_upgrade_hardened": "hardened",
-    "BITD.crew_upgrade_hardened_description": "Each PC gets **+1 trauma** box. This costs three upgrades to unlock, not just one.",
-    "BITD.crew_upgrade_hardened_long_description": "This may bring a PC with 4 **trauma** back into play if you wish.",
-    "BITD.crew_upgrade_hawkers_rigging": "hawkers rigging",
-    "BITD.crew_upgrade_hawkers_rigging_description": "One carried item is concealed and has no load.",
-    "BITD.crew_upgrade_hawkers_rigging_long_description": "For example, you could carry a load of drugs or a weapon, perfectly concealed, for zero load.",
-    "BITD.crew_upgrade_ironhook_contacts": "ironhook contacts",
-    "BITD.crew_upgrade_ironhook_contacts_description": "Your Tier is effectively +1 higher in prison.",
-    "BITD.crew_upgrade_ironhook_contacts_long_description": "This counts for any Tier-related element in prison, including the incarceration roll (see page 148).",
-    "BITD.crew_upgrade_irregulars": "irregulars",
-    "BITD.crew_upgrade_irregulars_description": "",
-    "BITD.crew_upgrade_irregulars_long_description": "",
-    "BITD.crew_upgrade_ordained": "ordained",
-    "BITD.crew_upgrade_ordained_description": "Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one.",
-    "BITD.crew_upgrade_ordained_long_description": "This may bring a PC with 4 **trauma** back into play if you wish.",
-    "BITD.crew_upgrade_ritual_sanctum_in_lair": "ritual sanctum in lair",
-    "BITD.crew_upgrade_ritual_sanctum_in_lair_description": "This counts as a sacred and arcane **workshop** for occult practices and rituals.",
-    "BITD.crew_upgrade_ritual_sanctum_in_lair_long_description": "",
-    "BITD.crew_upgrade_smugglers_rigging": "smugglers rigging",
-    "BITD.crew_upgrade_smugglers_rigging_description": "Two of your carried items are perfectly concealed.",
-    "BITD.crew_upgrade_smugglers_rigging_long_description": "You could carry 1 load of contraband and a pistol, perfectly concealed, even against a pat down.",
-    "BITD.crew_upgrade_steady": "steady",
-    "BITD.crew_upgrade_steady_description": "Each PC gets **+1 stress** box. This costs three upgrades to unlock, not just one.",
-    "BITD.crew_upgrade_steady_long_description": "",
-    "BITD.crew_upgrade_thief_rigging": "thief rigging",
-    "BITD.crew_upgrade_thief_rigging_description": "You get 2 free load worth of tool or gear items.",
-    "BITD.crew_upgrade_thief_rigging_long_description": "For example, you could carry burglary gear and tinkering tools for zero load.",
-    "BITD.crew_upgrade_unbroken": "unbroken",
-    "BITD.crew_upgrade_unbroken_description": "",
-    "BITD.crew_upgrade_unbroken_long_description": "",
-    "BITD.crew_upgrade_underground_maps_and_passkeys": "underground maps and passkeys",
-    "BITD.crew_upgrade_underground_maps_and_passkeys_description": "You have easy passage through the underground canals, tunnels, and basements of the city.",
-    "BITD.crew_upgrade_underground_maps_and_passkeys_long_description": "",
-    "BITD.crew_upgrade_vigilantes_attire": "vigilantes attire",
-    "BITD.crew_upgrade_vigilantes_attire_description": "",
-    "BITD.crew_upgrade_vigilantes_attire_long_description": "",
-    "BITD.crew_upgrade_willing_to_fight": "willing to fight",
-    "BITD.crew_upgrade_willing_to_fight_description": "",
-    "BITD.crew_upgrade_willing_to_fight_long_description": ""
-}
+[
+  {
+    "name": "BITD.crew_upgrade_assassins_rigging",
+    "description": "BITD.crew_upgrade_assassins_rigging_description",
+    "long_description": "BITD.crew_upgrade_assassins_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_barge",
+    "description": "BITD.crew_upgrade_barge_description",
+    "long_description": "BITD.crew_upgrade_barge_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_bravos_rigging",
+    "description": "BITD.crew_upgrade_bravos_rigging_description",
+    "long_description": "BITD.crew_upgrade_bravos_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_camouflage",
+    "description": "BITD.crew_upgrade_camouflage_description",
+    "long_description": "BITD.crew_upgrade_camouflage_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_composed",
+    "description": "BITD.crew_upgrade_composed_description",
+    "long_description": "BITD.crew_upgrade_composed_long_description",
+    "price": 1,
+    "multiples": 3,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_cult_rigging",
+    "description": "BITD.crew_upgrade_cult_rigging_description",
+    "long_description": "BITD.crew_upgrade_cult_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_dedicated_crafters",
+    "description": "BITD.crew_upgrade_dedicated_crafters_description",
+    "long_description": "BITD.crew_upgrade_dedicated_crafters_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_elite_adepts",
+    "description": "BITD.crew_upgrade_elite_adepts_description",
+    "long_description": "BITD.crew_upgrade_elite_adepts_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_elite_rooks",
+    "description": "BITD.crew_upgrade_elite_rooks_description",
+    "long_description": "BITD.crew_upgrade_elite_rooks_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_elite_rovers",
+    "description": "BITD.crew_upgrade_elite_rovers_description",
+    "long_description": "BITD.crew_upgrade_elite_rovers_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_elite_skulks",
+    "description": "BITD.crew_upgrade_elite_skulks_description",
+    "long_description": "BITD.crew_upgrade_elite_skulks_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_elite_thugs",
+    "description": "BITD.crew_upgrade_elite_thugs_description",
+    "long_description": "BITD.crew_upgrade_elite_thugs_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_hardened",
+    "description": "BITD.crew_upgrade_hardened_description",
+    "long_description": "BITD.crew_upgrade_hardened_long_description",
+    "price": 3,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_hawkers_rigging",
+    "description": "BITD.crew_upgrade_hawkers_rigging_description",
+    "long_description": "BITD.crew_upgrade_hawkers_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_ironhook_contacts",
+    "description": "BITD.crew_upgrade_ironhook_contacts_description",
+    "long_description": "BITD.crew_upgrade_ironhook_contacts_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_irregulars",
+    "description": "BITD.crew_upgrade_irregulars_description",
+    "long_description": "BITD.crew_upgrade_irregulars_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_ordained",
+    "description": "BITD.crew_upgrade_ordained_description",
+    "long_description": "BITD.crew_upgrade_ordained_long_description",
+    "price": 3,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_ritual_sanctum_in_lair",
+    "description": "BITD.crew_upgrade_ritual_sanctum_in_lair_description",
+    "long_description": "BITD.crew_upgrade_ritual_sanctum_in_lair_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_smugglers_rigging",
+    "description": "BITD.crew_upgrade_smugglers_rigging_description",
+    "long_description": "BITD.crew_upgrade_smugglers_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_steady",
+    "description": "BITD.crew_upgrade_steady_description",
+    "long_description": "BITD.crew_upgrade_steady_long_description",
+    "price": 3,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_thief_rigging",
+    "description": "BITD.crew_upgrade_thief_rigging_description",
+    "long_description": "BITD.crew_upgrade_thief_rigging_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_unbroken",
+    "description": "BITD.crew_upgrade_unbroken_description",
+    "long_description": "BITD.crew_upgrade_unbroken_long_description",
+    "price": 3,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_underground_maps_and_passkeys",
+    "description": "BITD.crew_upgrade_underground_maps_and_passkeys_description",
+    "long_description": "BITD.crew_upgrade_underground_maps_and_passkeys_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_vigilantes_attire",
+    "description": "BITD.crew_upgrade_vigilantes_attire_description",
+    "long_description": "BITD.crew_upgrade_vigilantes_attire_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_willing_to_fight",
+    "description": "BITD.crew_upgrade_willing_to_fight_description",
+    "long_description": "BITD.crew_upgrade_willing_to_fight_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  }
+]

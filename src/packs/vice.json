@@ -1,23 +1,37 @@
-{
-    "BITD.vice_faith": "faith",
-    "BITD.vice_faith_description": "You're dedicated to an unseen power, forgotten god, ancestor, etc.",
-    "BITD.vice_faith_long_description": "",
-    "BITD.vice_gambling": "gambling",
-    "BITD.vice_gambling_description": "You crave games of chance, betting on sporting events, etc.",
-    "BITD.vice_gambling_long_description": "",
-    "BITD.vice_luxury": "luxury",
-    "BITD.vice_luxury_description": "Expensive and/or ostentatious displays of opulence.",
-    "BITD.vice_luxury_long_description": "",
-    "BITD.vice_obligation": "obligation",
-    "BITD.vice_obligation_description": "You're devoted to a family, a cause, a charity, etc.",
-    "BITD.vice_obligation_long_description": "",
-    "BITD.vice_pleasure": "pleasure",
-    "BITD.vice_pleasure_description": "Gratification from lovers, food, drink, drugs, art, theater, etc.",
-    "BITD.vice_pleasure_long_description": "",
-    "BITD.vice_stupor": "stupor",
-    "BITD.vice_stupor_description": "You seek oblivion in the abuse of drugs, drink to excess, getting beaten to a pulp in the fighting pits, etc.",
-    "BITD.vice_stupor_long_description": "",
-    "BITD.vice_weird": "weird",
-    "BITD.vice_weird_description": "You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.",
-    "BITD.vice_weird_long_description": ""
-}
+[
+  {
+    "name": "BITD.vice_faith",
+    "description": "BITD.vice_faith_description",
+    "long_description": "BITD.vice_faith_long_description"
+  },
+  {
+    "name": "BITD.vice_gambling",
+    "description": "BITD.vice_gambling_description",
+    "long_description": "BITD.vice_gambling_long_description"
+  },
+  {
+    "name": "BITD.vice_luxury",
+    "description": "BITD.vice_luxury_description",
+    "long_description": "BITD.vice_luxury_long_description"
+  },
+  {
+    "name": "BITD.vice_obligation",
+    "description": "BITD.vice_obligation_description",
+    "long_description": "BITD.vice_obligation_long_description"
+  },
+  {
+    "name": "BITD.vice_pleasure",
+    "description": "BITD.vice_pleasure_description",
+    "long_description": "BITD.vice_pleasure_long_description"
+  },
+  {
+    "name": "BITD.vice_stupor",
+    "description": "BITD.vice_stupor_description",
+    "long_description": "BITD.vice_stupor_long_description"
+  },
+  {
+    "name": "BITD.vice_weird",
+    "description": "BITD.vice_weird_description",
+    "long_description": "BITD.vice_weird_long_description"
+  }
+]

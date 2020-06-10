@@ -1,23 +1,37 @@
-{
-    "BITD.background_academic": "academic",
-    "BITD.background_academic_description": "A scholar, a professor or student from Doskvol Academy, a philosopher or journalist, etc.",
-    "BITD.background_academic_long_description": "",
-    "BITD.background_labor": "labor",
-    "BITD.background_labor_description": "A servant, a factory worker, a coach driver, a docker, a sailor, a Rail Jack, etc. *A stevedore for the North Hook Company*.",
-    "BITD.background_labor_long_description": "",
-    "BITD.background_law": "law",
-    "BITD.background_law_description": "An advocate or barrister, a Bluecoat or inspector (or even Spirit Warden), a prison guard from Ironhook, etc.",
-    "BITD.background_law_long_description": "",
-    "BITD.background_military": "military",
-    "BITD.background_military_description": "A shopkeeper, a merchant, a skilled crafts-person, a shipping agent, etc. *A liaison to the Ministry of Preservation*.",
-    "BITD.background_military_long_description": "",
-    "BITD.background_noble": "noble",
-    "BITD.background_noble_description": "An Imperial or Skovlander soldier, a mercenary, an intelligence operative, a strategist, a training instructor, etc.",
-    "BITD.background_noble_long_description": "",
-    "BITD.background_trade": "trade",
-    "BITD.background_trade_description": "A dilettante, a courtier, the scion of a fallen house, etc.",
-    "BITD.background_trade_long_description": "",
-    "BITD.background_underworld": "underworld",
-    "BITD.background_underworld_description": "A street urchin, gang member, young thug, or other outcast who grew up on the streets.",
-    "BITD.background_underworld_long_description": ""
-}
+[
+  {
+    "name": "BITD.background_academic",
+    "description": "BITD.background_academic_description",
+    "long_description": "BITD.background_academic_long_description"
+  },
+  {
+    "name": "BITD.background_labor",
+    "description": "BITD.background_labor_description",
+    "long_description": "BITD.background_labor_long_description"
+  },
+  {
+    "name": "BITD.background_law",
+    "description": "BITD.background_law_description",
+    "long_description": "BITD.background_law_long_description"
+  },
+  {
+    "name": "BITD.background_trade",
+    "description": "BITD.background_trade_description",
+    "long_description": "BITD.background_trade_long_description"
+  },
+  {
+    "name": "BITD.background_military",
+    "description": "BITD.background_military_description",
+    "long_description": "BITD.background_military_long_description"
+  },
+  {
+    "name": "BITD.background_noble",
+    "description": "BITD.background_noble_description",
+    "long_description": "BITD.background_noble_long_description"
+  },
+  {
+    "name": "BITD.background_underworld",
+    "description": "BITD.background_underworld_description",
+    "long_description": "BITD.background_underworld_long_description"
+  }
+]

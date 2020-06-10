@@ -1,50 +1,130 @@
-{
-    "BITD.crew_upgrade_common_boat": "boat",
-    "BITD.crew_upgrade_common_boat_description": "",
-    "BITD.crew_upgrade_common_boat_long_description": "",
-    "BITD.crew_upgrade_common_carriage": "carriage",
-    "BITD.crew_upgrade_common_carriage_description": "",
-    "BITD.crew_upgrade_common_carriage_long_description": "",
-    "BITD.crew_upgrade_common_documents": "documents",
-    "BITD.crew_upgrade_common_documents_description": "",
-    "BITD.crew_upgrade_common_documents_long_description": "",
-    "BITD.crew_upgrade_common_gear": "gear",
-    "BITD.crew_upgrade_common_gear_description": "",
-    "BITD.crew_upgrade_common_gear_long_description": "",
-    "BITD.crew_upgrade_common_hidden": "hidden",
-    "BITD.crew_upgrade_common_hidden_description": "",
-    "BITD.crew_upgrade_common_hidden_long_description": "",
-    "BITD.crew_upgrade_common_implements": "implements",
-    "BITD.crew_upgrade_common_implements_description": "",
-    "BITD.crew_upgrade_common_implements_long_description": "",
-    "BITD.crew_upgrade_common_insight": "insight",
-    "BITD.crew_upgrade_common_insight_description": "",
-    "BITD.crew_upgrade_common_insight_long_description": "",
-    "BITD.crew_upgrade_common_mastery": "mastery",
-    "BITD.crew_upgrade_common_mastery_description": "",
-    "BITD.crew_upgrade_common_mastery_long_description": "",
-    "BITD.crew_upgrade_common_personal": "personal",
-    "BITD.crew_upgrade_common_personal_description": "",
-    "BITD.crew_upgrade_common_personal_long_description": "",
-    "BITD.crew_upgrade_common_prowess": "prowess",
-    "BITD.crew_upgrade_common_prowess_description": "",
-    "BITD.crew_upgrade_common_prowess_long_description": "",
-    "BITD.crew_upgrade_common_quarters": "quarters",
-    "BITD.crew_upgrade_common_quarters_description": "",
-    "BITD.crew_upgrade_common_quarters_long_description": "",
-    "BITD.crew_upgrade_common_resolve": "resolve",
-    "BITD.crew_upgrade_common_resolve_description": "",
-    "BITD.crew_upgrade_common_resolve_long_description": "",
-    "BITD.crew_upgrade_common_secure": "secure",
-    "BITD.crew_upgrade_common_secure_description": "",
-    "BITD.crew_upgrade_common_secure_long_description": "",
-    "BITD.crew_upgrade_common_supplies": "supplies",
-    "BITD.crew_upgrade_common_supplies_description": "",
-    "BITD.crew_upgrade_common_supplies_long_description": "",
-    "BITD.crew_upgrade_common_vault": "vault",
-    "BITD.crew_upgrade_common_vault_description": "",
-    "BITD.crew_upgrade_common_vault_long_description": "",
-    "BITD.crew_upgrade_common_workshop": "workshop",
-    "BITD.crew_upgrade_common_workshop_description": "",
-    "BITD.crew_upgrade_common_workshop_long_description": ""
-}
+[
+  {
+    "name": "BITD.crew_upgrade_common_carriage",
+    "description": "BITD.crew_upgrade_common_carriage_description",
+    "long_description": "BITD.crew_upgrade_common_carriage_long_description",
+    "price": 1,
+    "multiples": 2,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_boat",
+    "description": "BITD.crew_upgrade_common_boat_description",
+    "long_description": "BITD.crew_upgrade_common_boat_long_description",
+    "price": 1,
+    "multiples": 2,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_hidden",
+    "description": "BITD.crew_upgrade_common_hidden_description",
+    "long_description": "BITD.crew_upgrade_common_hidden_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_quarters",
+    "description": "BITD.crew_upgrade_common_quarters_description",
+    "long_description": "BITD.crew_upgrade_common_quarters_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_secure",
+    "description": "BITD.crew_upgrade_common_secure_description",
+    "long_description": "BITD.crew_upgrade_common_secure_long_description",
+    "price": 1,
+    "multiples": 2,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_vault",
+    "description": "BITD.crew_upgrade_common_vault_description",
+    "long_description": "BITD.crew_upgrade_common_vault_long_description",
+    "price": 1,
+    "multiples": 2,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_workshop",
+    "description": "BITD.crew_upgrade_common_workshop_description",
+    "long_description": "BITD.crew_upgrade_common_workshop_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_insight",
+    "description": "BITD.crew_upgrade_common_insight_description",
+    "long_description": "BITD.crew_upgrade_common_insight_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_prowess",
+    "description": "BITD.crew_upgrade_common_prowess_description",
+    "long_description": "BITD.crew_upgrade_common_prowess_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_resolve",
+    "description": "BITD.crew_upgrade_common_resolve_description",
+    "long_description": "BITD.crew_upgrade_common_resolve_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_personal",
+    "description": "BITD.crew_upgrade_common_personal_description",
+    "long_description": "BITD.crew_upgrade_common_personal_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_mastery",
+    "description": "BITD.crew_upgrade_common_mastery_description",
+    "long_description": "BITD.crew_upgrade_common_mastery_long_description",
+    "price": 4,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_documents",
+    "description": "BITD.crew_upgrade_common_documents_description",
+    "long_description": "BITD.crew_upgrade_common_documents_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_gear",
+    "description": "BITD.crew_upgrade_common_gear_description",
+    "long_description": "BITD.crew_upgrade_common_gear_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_implements",
+    "description": "BITD.crew_upgrade_common_implements_description",
+    "long_description": "BITD.crew_upgrade_common_implements_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  },
+  {
+    "name": "BITD.crew_upgrade_common_supplies",
+    "description": "BITD.crew_upgrade_common_supplies_description",
+    "long_description": "BITD.crew_upgrade_common_supplies_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0
+  }
+]

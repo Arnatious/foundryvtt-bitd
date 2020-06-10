@@ -1,23 +1,325 @@
-{
-    "BITD.playbook_character_cutter": "cutter",
-    "BITD.playbook_character_cutter_description": "A dangerous and intimidating fighter",
-    "BITD.playbook_character_cutter_long_description": "",
-    "BITD.playbook_character_hound": "hound",
-    "BITD.playbook_character_hound_description": "A deadly sharpshooter and tracker",
-    "BITD.playbook_character_hound_long_description": "",
-    "BITD.playbook_character_leech": "leech",
-    "BITD.playbook_character_leech_description": "A saboteur and technician",
-    "BITD.playbook_character_leech_long_description": "",
-    "BITD.playbook_character_lurk": "lurk",
-    "BITD.playbook_character_lurk_description": "A stealthy infiltrator and burglar",
-    "BITD.playbook_character_lurk_long_description": "",
-    "BITD.playbook_character_slide": "slide",
-    "BITD.playbook_character_slide_description": "A subtle manipulator and spy",
-    "BITD.playbook_character_slide_long_description": "",
-    "BITD.playbook_character_spider": "spider",
-    "BITD.playbook_character_spider_description": "A devious mastermind",
-    "BITD.playbook_character_spider_long_description": "",
-    "BITD.playbook_character_whisper": "whisper",
-    "BITD.playbook_character_whisper_description": "An arcane adept and channeler",
-    "BITD.playbook_character_whisper_long_description": ""
-}
+[
+  {
+    "name": "BITD.playbook_character_cutter",
+    "description": "BITD.playbook_character_cutter_description",
+    "long_description": "BITD.playbook_character_cutter_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with violence or coercion."
+    ],
+    "special_abilities": [
+      "battleborn",
+      "bodyguard",
+      "ghost fighter",
+      "leader",
+      "mule",
+      "not to be trifled with",
+      "savage",
+      "vigorous"
+    ],
+    "playbook_upgrades": [
+      "fine hand weapon",
+      "fine heavy weapon",
+      "scary weapon or tool",
+      "manacles and chain",
+      "rage essence vial"
+    ],
+    "contacts": [
+      "marlane",
+      "chael",
+      "mercy",
+      "grace",
+      "sawtooth"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 0,
+      "survey": 0,
+      "tinker": 0,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 2,
+      "wreck": 0,
+      "attune": 0,
+      "command": 1,
+      "consort": 0,
+      "sway": 0
+    }
+  },
+  {
+    "name": "BITD.playbook_character_hound",
+    "description": "BITD.playbook_character_hound_description",
+    "long_description": "BITD.playbook_character_hound_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with tracking or violence."
+    ],
+    "special_abilities": [
+      "sharpshooter",
+      "focused",
+      "ghost hunter",
+      "scout",
+      "survivor",
+      "tough as nails",
+      "vengeful",
+      "vigorous"
+    ],
+    "playbook_upgrades": [
+      "fine pair of pistols",
+      "fine long rifle",
+      "electroplasmic ammunition",
+      "a trained hunting pet",
+      "spyglass"
+    ],
+    "contacts": [
+      "steiner",
+      "celene",
+      "melvir",
+      "veleris",
+      "casta"
+    ],
+    "base_skills": {
+      "hunt": 2,
+      "study": 0,
+      "survey": 1,
+      "tinker": 0,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 0,
+      "wreck": 0,
+      "attune": 0,
+      "command": 0,
+      "consort": 0,
+      "sway": 0
+    }
+  },
+  {
+    "name": "BITD.playbook_character_leech",
+    "description": "BITD.playbook_character_leech_description",
+    "long_description": "BITD.playbook_character_leech_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with technical skill or mayhem."
+    ],
+    "special_abilities": [
+      "alchemist",
+      "analyst",
+      "artificer",
+      "fortitude",
+      "ghost ward",
+      "physicker",
+      "saboteur",
+      "venomous"
+    ],
+    "playbook_upgrades": [
+      "fine tinkering tools",
+      "fine wrecking tools",
+      "blowgun and darts syringes",
+      "bandolier",
+      "gadget"
+    ],
+    "contacts": [
+      "stazia",
+      "veldren",
+      "eckerd",
+      "jul",
+      "malista"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 0,
+      "survey": 0,
+      "tinker": 2,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 0,
+      "wreck": 1,
+      "attune": 0,
+      "command": 0,
+      "consort": 0,
+      "sway": 0
+    }
+  },
+  {
+    "name": "BITD.playbook_character_lurk",
+    "description": "BITD.playbook_character_lurk_description",
+    "long_description": "BITD.playbook_character_lurk_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with stealth or evasion."
+    ],
+    "special_abilities": [
+      "infiltrator",
+      "ambush",
+      "daredevil",
+      "the devils footsteps",
+      "expertise",
+      "ghost veil",
+      "reflexes",
+      "shadow"
+    ],
+    "playbook_upgrades": [
+      "fine lockpicks",
+      "fine shadow cloak",
+      "light climbing gear",
+      "silence potion vial",
+      "dark sight goggles"
+    ],
+    "contacts": [
+      "telda",
+      "darmot",
+      "frake",
+      "roslyn kellis",
+      "petra"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 0,
+      "survey": 0,
+      "tinker": 0,
+      "finesse": 1,
+      "prowl": 2,
+      "skirmish": 0,
+      "wreck": 0,
+      "attune": 0,
+      "command": 0,
+      "consort": 0,
+      "sway": 0
+    }
+  },
+  {
+    "name": "BITD.playbook_character_slide",
+    "description": "BITD.playbook_character_slide_description",
+    "long_description": "BITD.playbook_character_slide_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with deception or influence."
+    ],
+    "special_abilities": [
+      "rooks gambit",
+      "cloak and dagger",
+      "ghost voice",
+      "like looking into a mirror",
+      "a little something on the side",
+      "mesmerism",
+      "subterfuge",
+      "trust in me"
+    ],
+    "playbook_upgrades": [
+      "fine clothes and jewelry",
+      "fine disguise kit",
+      "fine loaded dice trick cards",
+      "trance powder",
+      "a cane sword"
+    ],
+    "contacts": [
+      "bryl",
+      "bazso baz",
+      "klyra",
+      "nyryx",
+      "harker"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 0,
+      "survey": 0,
+      "tinker": 0,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 0,
+      "wreck": 0,
+      "attune": 0,
+      "command": 0,
+      "consort": 1,
+      "sway": 2
+    }
+  },
+  {
+    "name": "BITD.playbook_character_spider",
+    "description": "BITD.playbook_character_spider_description",
+    "long_description": "BITD.playbook_character_spider_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with calculation or conspiracy."
+    ],
+    "special_abilities": [
+      "foresight",
+      "calculating",
+      "connected",
+      "functioning vice",
+      "ghost contract",
+      "jail bird",
+      "mastermind",
+      "weaving the web"
+    ],
+    "playbook_upgrades": [
+      "fine cover identity",
+      "fine bottle of whiskey",
+      "blueprints",
+      "vial of slumber essence",
+      "concealed palm pistol"
+    ],
+    "contacts": [
+      "salia",
+      "augus",
+      "jennah",
+      "riven",
+      "jeren"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 1,
+      "survey": 0,
+      "tinker": 0,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 0,
+      "wreck": 0,
+      "attune": 0,
+      "command": 0,
+      "consort": 2,
+      "sway": 0
+    }
+  },
+  {
+    "name": "BITD.playbook_character_whisper",
+    "description": "BITD.playbook_character_whisper_description",
+    "long_description": "BITD.playbook_character_whisper_long_description",
+    "experience_triggers": [
+      "You addressed a challenge with knowledge or arcane power."
+    ],
+    "special_abilities": [
+      "compel",
+      "ghost mind",
+      "iron will",
+      "occultist",
+      "ritual",
+      "strange methods",
+      "tempest",
+      "warded"
+    ],
+    "playbook_upgrades": [
+      "fine lightning hook",
+      "fine spirit mask",
+      "electroplasm vials",
+      "spirit bottles",
+      "ghost key",
+      "demonbane charm"
+    ],
+    "contacts": [
+      "nyryx",
+      "scurlock",
+      "setarra",
+      "quellyn",
+      "flint"
+    ],
+    "base_skills": {
+      "hunt": 0,
+      "study": 1,
+      "survey": 0,
+      "tinker": 0,
+      "finesse": 0,
+      "prowl": 0,
+      "skirmish": 0,
+      "wreck": 0,
+      "attune": 2,
+      "command": 0,
+      "consort": 0,
+      "sway": 0
+    }
+  }
+]

@@ -1,146 +1,1442 @@
-{
-    "BITD.claim_ancient_altar": "ancient altar",
-    "BITD.claim_ancient_altar_description": "You get **+1d** to the **engagement roll** for occult plans.",
-    "BITD.claim_ancient_altar_long_description": "Its blessing is with you.",
-    "BITD.claim_ancient_gate": "ancient gate",
-    "BITD.claim_ancient_gate_description": "Safe passage in the deathlands.",
-    "BITD.claim_ancient_gate_long_description": "When you leave the city through this gate, spirits in the deathlands will not molest you unless directly provoked.",
-    "BITD.claim_ancient_obelisk": "ancient obelisk",
-    "BITD.claim_ancient_obelisk_description": "-1 stress cost for all arcane powers and rituals.",
-    "BITD.claim_ancient_obelisk_long_description": "This effect applies to all cultists, everywhere - so long as the deity is well-pleased. You don't have to be on-site at the obelisk to benefit from its power.",
-    "BITD.claim_ancient_tower": "ancient tower",
-    "BITD.claim_ancient_tower_description": "You get **+1d** to **Consort** with arcane entities on-site.",
-    "BITD.claim_ancient_tower_long_description": "This tower was prepared by sorcery from the pre-cataclysm and acts as an arcane lens to focus eldritch energy across the black mirror into the void.",
-    "BITD.claim_barracks": "barracks",
-    "BITD.claim_barracks_description": "Your **Thug** cohorts get **+1 scale**.",
-    "BITD.claim_barracks_long_description": "Extra room means more gang members.",
-    "BITD.claim_bluecoat_confederates": "bluecoat confederates",
-    "BITD.claim_bluecoat_confederates_description": "You get **+1d** to the **engagement roll** for assault plans.",
-    "BITD.claim_bluecoat_confederates_long_description": "The street patrol around here helps you out now.",
-    "BITD.claim_bluecoat_intimidation": "bluecoat intimidation",
-    "BITD.claim_bluecoat_intimidation_description": "You get -2 **heat** per score.",
-    "BITD.claim_bluecoat_intimidation_long_description": "The law doesn't want any trouble from you; they look the other way.",
-    "BITD.claim_city_records": "city records",
-    "BITD.claim_city_records_description": "You get **+1d** to the **engagement roll** for **stealth** plans.",
-    "BITD.claim_city_records_long_description": "You can use blueprints and other documents to determine a good approach for infiltrations.",
-    "BITD.claim_cloister": "cloister",
-    "BITD.claim_cloister_description": "Your **Adept** cohorts get **+1 scale**.",
-    "BITD.claim_cloister_long_description": "More room for hopeful novices desperate to pledge their service.",
-    "BITD.claim_cover_identities": "cover identities",
-    "BITD.claim_cover_identities_description": "You get **+1d** to the **engagement roll** for deception and social plans.",
-    "BITD.claim_cover_identities_long_description": "False identities help confuse the opposition.",
-    "BITD.claim_cover_operation": "cover operation",
-    "BITD.claim_cover_operation_description": "You get -2 **heat** per score.",
-    "BITD.claim_cover_operation_long_description": "What's your cover? Who did you seize it from?",
-    "BITD.claim_covert_drop": "covert drop",
-    "BITD.claim_covert_drop_description": "You get **+2 coin** in **payoff** for scores that involve espionage or sabotage.",
-    "BITD.claim_covert_drop_long_description": "The perfect hidden exchange point is worth the extra **coin** to discerning clientele.",
-    "BITD.claim_drug_den": "drug den",
-    "BITD.claim_drug_den_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_drug_den_long_description": "What's the drug of choice?",
-    "BITD.claim_envoy": "envoy",
-    "BITD.claim_envoy_description": "You get **+2 coin** in **payoff** for scores that involve high-class clients.",
-    "BITD.claim_envoy_long_description": "This well-connected liaison will help arrange for a better **payoff** from rich clients.",
-    "BITD.claim_fighting_pits": "fighting pits",
-    "BITD.claim_fighting_pits_description": "During downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_fighting_pits_long_description": "The locals love to gamble away their hard-won **coin** on the bloodsports you host.",
-    "BITD.claim_fixer": "fixer",
-    "BITD.claim_fixer_description": "You get **+2 coin** in **payoff** for scores that involve lower-class clients.",
-    "BITD.claim_fixer_long_description": "This well-respected agent will help arrange for a better **payoff** from poorer clients.",
-    "BITD.claim_fleet": "fleet",
-    "BITD.claim_fleet_description": "Your cohorts have their own vehicles.",
-    "BITD.claim_fleet_long_description": "Each cohort has a common vehicle, with quality equal to your Tier.",
-    "BITD.claim_foreign_market": "foreign market",
-    "BITD.claim_foreign_market_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_foreign_market_long_description": "Some of your product makes its way out of the city.",
-    "BITD.claim_gambling_den": "gambling den",
-    "BITD.claim_gambling_den_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_gambling_den_long_description": "Cards, dice, or something more unusual on offer?",
-    "BITD.claim_hagfish_farm": "hagfish farm",
-    "BITD.claim_hagfish_farm_description": "When you use the reduce **heat** downtime activity after a score that involves killing, you get **+1d** to the roll and quiet, convenient disposal of any corpses you left on the job.",
-    "BITD.claim_hagfish_farm_long_description": "",
-    "BITD.claim_infirmary": "infirmary",
-    "BITD.claim_infirmary_description": "You get **+1d** to healing treatment rolls.",
-    "BITD.claim_infirmary_long_description": "The infirmary also has beds for long-term convalescence.",
-    "BITD.claim_informants": "informants",
-    "BITD.claim_informants_description": "You get **+1d** to gather information for a score.",
-    "BITD.claim_informants_long_description": "Your eyes and ears on the streets are always on the lookout for new clients.",
-    "BITD.claim_interrogation_chamber": "interrogation chamber",
-    "BITD.claim_interrogation_chamber_description": "You get **+1d** to **Command** and **Sway** on-site.",
-    "BITD.claim_interrogation_chamber_long_description": "Grisly business, but effective.",
-    "BITD.claim_lair": "lair",
-    "BITD.claim_lair_description": "",
-    "BITD.claim_lair_long_description": "",
-    "BITD.claim_local_graft": "local graft",
-    "BITD.claim_local_graft_description": "You get **+2 coin** in **payoff** for scores that involve a show of force or socializing.",
-    "BITD.claim_local_graft_long_description": "A few city officials share bribe money with those who show that they're players on the scene.",
-    "BITD.claim_lookouts": "lookouts",
-    "BITD.claim_lookouts_description": "You get **+1d** to **Hunt** or **Survey** on your turf.",
-    "BITD.claim_lookouts_long_description": "",
-    "BITD.claim_loyal_fence": "loyal fence",
-    "BITD.claim_loyal_fence_description": "You get **+2 coin** in **payoff** for scores that involve burglary or robbery.",
-    "BITD.claim_loyal_fence_long_description": "It requires a skilled eye and good contacts to move stolen goods.",
-    "BITD.claim_luxury_fence": "luxury fence",
-    "BITD.claim_luxury_fence_description": "You get **+2 coin** in **payoff** for scores that involve highclass targets.",
-    "BITD.claim_luxury_fence_long_description": "It requires a skilled eye and good contacts to move hot luxury goods.",
-    "BITD.claim_luxury_venue": "luxury venue",
-    "BITD.claim_luxury_venue_description": "**+1d** to **Consort** and **Sway** rolls on-site.",
-    "BITD.claim_luxury_venue_long_description": "Silks, paintings, and crystal impress the clientele.",
-    "BITD.claim_offertory": "offertory",
-    "BITD.claim_offertory_description": "You get **+2 coin** in your **payoff** for scores that involve occult operations.",
-    "BITD.claim_offertory_long_description": "The frightened locals offer you tribute when you perform your dark practices. They don't want to be next.",
-    "BITD.claim_personal_clothier": "personal clothier",
-    "BITD.claim_personal_clothier_description": "You get **+1d** to the **engagement roll** for social plans.",
-    "BITD.claim_personal_clothier_long_description": "You always arrive on the scene in the most current and alluring fashion.",
-    "BITD.claim_protection_racket": "protection racket",
-    "BITD.claim_protection_racket_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_protection_racket_long_description": "Some of the locals are terrified of you and will gladly pay for \"protection.\"",
-    "BITD.claim_sacred_nexus": "sacred nexus",
-    "BITD.claim_sacred_nexus_description": "You get **+1d** to healing treatment rolls.",
-    "BITD.claim_sacred_nexus_long_description": "Ancient arcane energy seeps into the wounded here, speeding their recovery, and marking them consecrated by its power.",
-    "BITD.claim_sanctuary": "sanctuary",
-    "BITD.claim_sanctuary_description": "**+1d** to **Command** and **Sway** rolls on-site.",
-    "BITD.claim_sanctuary_long_description": "Your sanctuary maintains its effect as long as your deity is well-pleased with your service.",
-    "BITD.claim_secret_pathways": "secret pathways",
-    "BITD.claim_secret_pathways_description": "You get **+1d** to the **engagement roll** for stealth plans.",
-    "BITD.claim_secret_pathways_long_description": "You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing.",
-    "BITD.claim_secret_routes": "secret routes",
-    "BITD.claim_secret_routes_description": "You get **+1d** to the **engagement roll** for transport plans.",
-    "BITD.claim_secret_routes_long_description": "You might have access to longforgotten underground canals, dark streets normally hidden behind debris, or some other route of your choosing.",
-    "BITD.claim_side_business": "side business",
-    "BITD.claim_side_business_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_side_business_long_description": "What kind of legitimate business is this? How do you get paid in secret?",
-    "BITD.claim_spirit_well": "spirit well",
-    "BITD.claim_spirit_well_description": "You get **+1d** to **Attune** rolls on-site.",
-    "BITD.claim_spirit_well_long_description": "A spirit well draws ghosts and other things to its power, which you harness to aid your arts.",
-    "BITD.claim_street_fence": "street fence",
-    "BITD.claim_street_fence_description": "You get **+2 coin** in your **payoff** for scores that involve lower-class targets.",
-    "BITD.claim_street_fence_long_description": "An expert can find the treasure amid the trash you loot from your poorer victims.",
-    "BITD.claim_surplus_caches": "surplus caches",
-    "BITD.claim_surplus_caches_description": "You get **+2 coin** in **payoff** for scores that involve product sale or supply.",
-    "BITD.claim_surplus_caches_long_description": "You have an abundance of product, which pads your pockets every now and then.",
-    "BITD.claim_tavern": "tavern",
-    "BITD.claim_tavern_description": "You get **+1d** to **Consort** and **Sway** rolls on-site.",
-    "BITD.claim_tavern_long_description": "Some booze and friendly conversation can go a long way.",
-    "BITD.claim_terrorized_citizens": "terrorized citizens",
-    "BITD.claim_terrorized_citizens_description": "You get **+2 coin** in your **payoff** for scores that involve battle or extortion.",
-    "BITD.claim_terrorized_citizens_long_description": "The frightened locals offer you tribute whenever you lash out. They don't want to be next.",
-    "BITD.claim_training_rooms": "training rooms",
-    "BITD.claim_training_rooms_description": "Your **Skulks** cohorts get **+1 scale**.",
-    "BITD.claim_training_rooms_long_description": "Extra training enables them to fight like a larger gang.",
-    "BITD.claim_turf": "turf",
-    "BITD.claim_turf_description": "",
-    "BITD.claim_turf_long_description": "",
-    "BITD.claim_vice_den": "vice den",
-    "BITD.claim_vice_den_description": "Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.",
-    "BITD.claim_vice_den_long_description": "Perhaps you sell some of the contraband you smuggle here? Or do you not mix your operations?",
-    "BITD.claim_victim_trophies": "victim trophies",
-    "BITD.claim_victim_trophies_description": "You get **+1 rep** per score.",
-    "BITD.claim_victim_trophies_long_description": "Word of your grisly \"collection\" gets around, and your boldness boosts your rep in the underworld.",
-    "BITD.claim_warehouse": "warehouse",
-    "BITD.claim_warehouse_description": "You get **+1d** to acquire asset rolls.",
-    "BITD.claim_warehouse_long_description": "You have space to hold all the various items and supplies you end up with from your smuggling runs. They can be useful on their own or for barter when you need it.",
-    "BITD.claim_warehouses": "warehouses",
-    "BITD.claim_warehouses_description": "You get **+1d** to acquire asset rolls.",
-    "BITD.claim_warehouses_long_description": "You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it."
-}
+[
+  {
+    "name": "BITD.claim_training_rooms",
+    "description": "BITD.claim_training_rooms_description",
+    "long_description": "BITD.claim_training_rooms_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_assassins_training_rooms"
+  },
+  {
+    "name": "BITD.claim_vice_den",
+    "description": "BITD.claim_vice_den_description",
+    "long_description": "BITD.claim_vice_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_assassins_vice_den"
+  },
+  {
+    "name": "BITD.claim_fixer",
+    "description": "BITD.claim_fixer_description",
+    "long_description": "BITD.claim_fixer_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": false,
+      "right": false
+    },
+    "internal_name": "claim_assassins_fixer"
+  },
+  {
+    "name": "BITD.claim_informants",
+    "description": "BITD.claim_informants_description",
+    "long_description": "BITD.claim_informants_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_assassins_informants"
+  },
+  {
+    "name": "BITD.claim_hagfish_farm",
+    "description": "BITD.claim_hagfish_farm_description",
+    "long_description": "BITD.claim_hagfish_farm_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_assassins_hagfish_farm"
+  },
+  {
+    "name": "BITD.claim_victim_trophies",
+    "description": "BITD.claim_victim_trophies_description",
+    "long_description": "BITD.claim_victim_trophies_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": false,
+      "right": false
+    },
+    "internal_name": "claim_assassins_victim_trophies"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_cover_operation",
+    "description": "BITD.claim_cover_operation_description",
+    "long_description": "BITD.claim_cover_operation_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_assassins_cover_operation"
+  },
+  {
+    "name": "BITD.claim_protection_racket",
+    "description": "BITD.claim_protection_racket_description",
+    "long_description": "BITD.claim_protection_racket_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_assassins_protection_racket"
+  },
+  {
+    "name": "BITD.claim_infirmary",
+    "description": "BITD.claim_infirmary_description",
+    "long_description": "BITD.claim_infirmary_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_assassins_infirmary"
+  },
+  {
+    "name": "BITD.claim_envoy",
+    "description": "BITD.claim_envoy_description",
+    "long_description": "BITD.claim_envoy_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": false,
+      "right": false
+    },
+    "internal_name": "claim_assassins_envoy"
+  },
+  {
+    "name": "BITD.claim_cover_identities",
+    "description": "BITD.claim_cover_identities_description",
+    "long_description": "BITD.claim_cover_identities_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": false,
+      "down": false,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_assassins_cover_identities"
+  },
+  {
+    "name": "BITD.claim_city_records",
+    "description": "BITD.claim_city_records_description",
+    "long_description": "BITD.claim_city_records_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": false,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_assassins_city_records"
+  },
+  {
+    "name": "BITD.claim_barracks",
+    "description": "BITD.claim_barracks_description",
+    "long_description": "BITD.claim_barracks_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_bravos_barracks"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_terrorized_citizens",
+    "description": "BITD.claim_terrorized_citizens_description",
+    "long_description": "BITD.claim_terrorized_citizens_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_bravos_terrorized_citizens"
+  },
+  {
+    "name": "BITD.claim_informants",
+    "description": "BITD.claim_informants_description",
+    "long_description": "BITD.claim_informants_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_bravos_informants"
+  },
+  {
+    "name": "BITD.claim_protection_racket",
+    "description": "BITD.claim_protection_racket_description",
+    "long_description": "BITD.claim_protection_racket_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "down": true,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_bravos_protection_racket"
+  },
+  {
+    "name": "BITD.claim_fighting_pits",
+    "description": "BITD.claim_fighting_pits_description",
+    "long_description": "BITD.claim_fighting_pits_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_bravos_fighting_pits"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_infirmary",
+    "description": "BITD.claim_infirmary_description",
+    "long_description": "BITD.claim_infirmary_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_bravos_infirmary"
+  },
+  {
+    "name": "BITD.claim_bluecoat_intimidation",
+    "description": "BITD.claim_bluecoat_intimidation_description",
+    "long_description": "BITD.claim_bluecoat_intimidation_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_bravos_bluecoat_intimidation"
+  },
+  {
+    "name": "BITD.claim_street_fence",
+    "description": "BITD.claim_street_fence_description",
+    "long_description": "BITD.claim_street_fence_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": false,
+      "right": true
+    },
+    "internal_name": "claim_bravos_street_fence"
+  },
+  {
+    "name": "BITD.claim_warehouses",
+    "description": "BITD.claim_warehouses_description",
+    "long_description": "BITD.claim_warehouses_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_bravos_warehouses"
+  },
+  {
+    "name": "BITD.claim_bluecoat_confederates",
+    "description": "BITD.claim_bluecoat_confederates_description",
+    "long_description": "BITD.claim_bluecoat_confederates_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_bravos_bluecoat_confederates"
+  },
+  {
+    "name": "BITD.claim_cloister",
+    "description": "BITD.claim_cloister_description",
+    "long_description": "BITD.claim_cloister_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_cult_cloister"
+  },
+  {
+    "name": "BITD.claim_vice_den",
+    "description": "BITD.claim_vice_den_description",
+    "long_description": "BITD.claim_vice_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_cult_vice_den"
+  },
+  {
+    "name": "BITD.claim_offertory",
+    "description": "BITD.claim_offertory_description",
+    "long_description": "BITD.claim_offertory_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_cult_offertory"
+  },
+  {
+    "name": "BITD.claim_ancient_obelisk",
+    "description": "BITD.claim_ancient_obelisk_description",
+    "long_description": "BITD.claim_ancient_obelisk_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_cult_ancient_obelisk"
+  },
+  {
+    "name": "BITD.claim_ancient_tower",
+    "description": "BITD.claim_ancient_tower_description",
+    "long_description": "BITD.claim_ancient_tower_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_cult_ancient_tower"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_spirit_well",
+    "description": "BITD.claim_spirit_well_description",
+    "long_description": "BITD.claim_spirit_well_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_cult_spirit_well"
+  },
+  {
+    "name": "BITD.claim_ancient_gate",
+    "description": "BITD.claim_ancient_gate_description",
+    "long_description": "BITD.claim_ancient_gate_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_cult_ancient_gate"
+  },
+  {
+    "name": "BITD.claim_sanctuary",
+    "description": "BITD.claim_sanctuary_description",
+    "long_description": "BITD.claim_sanctuary_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_cult_sanctuary"
+  },
+  {
+    "name": "BITD.claim_sacred_nexus",
+    "description": "BITD.claim_sacred_nexus_description",
+    "long_description": "BITD.claim_sacred_nexus_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_cult_sacred_nexus"
+  },
+  {
+    "name": "BITD.claim_ancient_altar",
+    "description": "BITD.claim_ancient_altar_description",
+    "long_description": "BITD.claim_ancient_altar_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": true,
+      "down": false,
+      "left": true,
+      "right": false
+    },
+    "internal_name": "claim_cult_ancient_altar"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_personal_clothier",
+    "description": "BITD.claim_personal_clothier_description",
+    "long_description": "BITD.claim_personal_clothier_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_hawkers_personal_clothier"
+  },
+  {
+    "name": "BITD.claim_local_graft",
+    "description": "BITD.claim_local_graft_description",
+    "long_description": "BITD.claim_local_graft_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_hawkers_local_graft"
+  },
+  {
+    "name": "BITD.claim_lookouts",
+    "description": "BITD.claim_lookouts_description",
+    "long_description": "BITD.claim_lookouts_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_hawkers_lookouts"
+  },
+  {
+    "name": "BITD.claim_informants",
+    "description": "BITD.claim_informants_description",
+    "long_description": "BITD.claim_informants_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_hawkers_informants"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_luxury_venue",
+    "description": "BITD.claim_luxury_venue_description",
+    "long_description": "BITD.claim_luxury_venue_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_hawkers_luxury_venue"
+  },
+  {
+    "name": "BITD.claim_foreign_market",
+    "description": "BITD.claim_foreign_market_description",
+    "long_description": "BITD.claim_foreign_market_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_hawkers_foreign_market"
+  },
+  {
+    "name": "BITD.claim_vice_den",
+    "description": "BITD.claim_vice_den_description",
+    "long_description": "BITD.claim_vice_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_hawkers_vice_den"
+  },
+  {
+    "name": "BITD.claim_surplus_caches",
+    "description": "BITD.claim_surplus_caches_description",
+    "long_description": "BITD.claim_surplus_caches_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_hawkers_surplus_caches"
+  },
+  {
+    "name": "BITD.claim_cover_operation",
+    "description": "BITD.claim_cover_operation_description",
+    "long_description": "BITD.claim_cover_operation_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_hawkers_cover_operation"
+  },
+  {
+    "name": "BITD.claim_cover_identities",
+    "description": "BITD.claim_cover_identities_description",
+    "long_description": "BITD.claim_cover_identities_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_hawkers_cover_identities"
+  },
+  {
+    "name": "BITD.claim_interrogation_chamber",
+    "description": "BITD.claim_interrogation_chamber_description",
+    "long_description": "BITD.claim_interrogation_chamber_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_shadows_interrogation_chamber"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_loyal_fence",
+    "description": "BITD.claim_loyal_fence_description",
+    "long_description": "BITD.claim_loyal_fence_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_shadows_loyal_fence"
+  },
+  {
+    "name": "BITD.claim_gambling_den",
+    "description": "BITD.claim_gambling_den_description",
+    "long_description": "BITD.claim_gambling_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_shadows_gambling_den"
+  },
+  {
+    "name": "BITD.claim_tavern",
+    "description": "BITD.claim_tavern_description",
+    "long_description": "BITD.claim_tavern_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_shadows_tavern"
+  },
+  {
+    "name": "BITD.claim_drug_den",
+    "description": "BITD.claim_drug_den_description",
+    "long_description": "BITD.claim_drug_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_shadows_drug_den"
+  },
+  {
+    "name": "BITD.claim_informants",
+    "description": "BITD.claim_informants_description",
+    "long_description": "BITD.claim_informants_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_shadows_informants"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lookouts",
+    "description": "BITD.claim_lookouts_description",
+    "long_description": "BITD.claim_lookouts_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_shadows_lookouts"
+  },
+  {
+    "name": "BITD.claim_hagfish_farm",
+    "description": "BITD.claim_hagfish_farm_description",
+    "long_description": "BITD.claim_hagfish_farm_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_shadows_hagfish_farm"
+  },
+  {
+    "name": "BITD.claim_infirmary",
+    "description": "BITD.claim_infirmary_description",
+    "long_description": "BITD.claim_infirmary_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_shadows_infirmary"
+  },
+  {
+    "name": "BITD.claim_covert_drop",
+    "description": "BITD.claim_covert_drop_description",
+    "long_description": "BITD.claim_covert_drop_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_shadows_covert_drop"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_secret_pathways",
+    "description": "BITD.claim_secret_pathways_description",
+    "long_description": "BITD.claim_secret_pathways_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_shadows_secret_pathways"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 0,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_side_business",
+    "description": "BITD.claim_side_business_description",
+    "long_description": "BITD.claim_side_business_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 1,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_smugglers_side_business"
+  },
+  {
+    "name": "BITD.claim_luxury_fence",
+    "description": "BITD.claim_luxury_fence_description",
+    "long_description": "BITD.claim_luxury_fence_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 2,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_luxury_fence"
+  },
+  {
+    "name": "BITD.claim_vice_den",
+    "description": "BITD.claim_vice_den_description",
+    "long_description": "BITD.claim_vice_den_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 3,
+    "connections": {
+      "up": false,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_vice_den"
+  },
+  {
+    "name": "BITD.claim_tavern",
+    "description": "BITD.claim_tavern_description",
+    "long_description": "BITD.claim_tavern_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 4,
+    "connections": {
+      "up": false,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_smugglers_tavern"
+  },
+  {
+    "name": "BITD.claim_ancient_gate",
+    "description": "BITD.claim_ancient_gate_description",
+    "long_description": "BITD.claim_ancient_gate_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 5,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_ancient_gate"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 6,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": false
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_lair",
+    "description": "BITD.claim_lair_description",
+    "long_description": "BITD.claim_lair_long_description",
+    "price": 0,
+    "multiples": 0,
+    "taken": 1,
+    "index": 7,
+    "connections": {
+      "up": true,
+      "down": true,
+      "left": true,
+      "right": true
+    },
+    "internal_name": "claim_lair"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 8,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_turf",
+    "description": "BITD.claim_turf_description",
+    "long_description": "BITD.claim_turf_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 9,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": true,
+      "left": true
+    },
+    "internal_name": "claim_turf"
+  },
+  {
+    "name": "BITD.claim_secret_routes",
+    "description": "BITD.claim_secret_routes_description",
+    "long_description": "BITD.claim_secret_routes_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 10,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_secret_routes"
+  },
+  {
+    "name": "BITD.claim_informants",
+    "description": "BITD.claim_informants_description",
+    "long_description": "BITD.claim_informants_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 11,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_smugglers_informants"
+  },
+  {
+    "name": "BITD.claim_fleet",
+    "description": "BITD.claim_fleet_description",
+    "long_description": "BITD.claim_fleet_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 12,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_fleet"
+  },
+  {
+    "name": "BITD.claim_cover_operation",
+    "description": "BITD.claim_cover_operation_description",
+    "long_description": "BITD.claim_cover_operation_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 13,
+    "connections": {
+      "up": true,
+      "right": true,
+      "down": false,
+      "left": false
+    },
+    "internal_name": "claim_smugglers_cover_operation"
+  },
+  {
+    "name": "BITD.claim_warehouse",
+    "description": "BITD.claim_warehouse_description",
+    "long_description": "BITD.claim_warehouse_long_description",
+    "price": 1,
+    "multiples": 1,
+    "taken": 0,
+    "index": 14,
+    "connections": {
+      "up": true,
+      "right": false,
+      "down": false,
+      "left": true
+    },
+    "internal_name": "claim_smugglers_warehouse"
+  }
+]

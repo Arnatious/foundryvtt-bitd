@@ -1,23 +1,261 @@
-{
-    "BITD.playbook_crew_assassins": "assassins",
-    "BITD.playbook_crew_assassins_description": "murderers for hire",
-    "BITD.playbook_crew_assassins_long_description": "",
-    "BITD.playbook_crew_bravos": "bravos",
-    "BITD.playbook_crew_bravos_description": "mercenaries, thugs & killers",
-    "BITD.playbook_crew_bravos_long_description": "",
-    "BITD.playbook_crew_cult": "cult",
-    "BITD.playbook_crew_cult_description": "acolytes of a deity",
-    "BITD.playbook_crew_cult_long_description": "",
-    "BITD.playbook_crew_hawkers": "hawkers",
-    "BITD.playbook_crew_hawkers_description": "vice dealers",
-    "BITD.playbook_crew_hawkers_long_description": "",
-    "BITD.playbook_crew_shadows": "shadows",
-    "BITD.playbook_crew_shadows_description": "thieves, spies, and saboteurs",
-    "BITD.playbook_crew_shadows_long_description": "",
-    "BITD.playbook_crew_smugglers": "smugglers",
-    "BITD.playbook_crew_smugglers_description": "suppliers of illicit goods",
-    "BITD.playbook_crew_smugglers_long_description": "",
-    "BITD.playbook_crew_vigilantes": "vigilantes",
-    "BITD.playbook_crew_vigilantes_description": "deluded avengers",
-    "BITD.playbook_crew_vigilantes_long_description": ""
-}
+[
+  {
+    "name": "BITD.playbook_crew_assassins",
+    "description": "BITD.playbook_crew_assassins_description",
+    "long_description": "BITD.playbook_crew_assassins_long_description",
+    "experience_triggers": [
+      "Execute a successful accident, disappearance, murder, or ransom operation."
+    ],
+    "special_abilities": [
+      "deadly",
+      "crow's veil",
+      "emberdeath",
+      "no traces",
+      "patron",
+      "predators",
+      "vipers"
+    ],
+    "playbook_upgrades": [
+      "assassins rigging",
+      "ironhook contacts",
+      "elite skulks",
+      "elite thugs",
+      "hardened"
+    ],
+    "starting_upgrades": [
+      "insight",
+      "prowess"
+    ],
+    "contacts": [
+      "trev",
+      "lydra",
+      "irimina",
+      "karlos",
+      "exeter",
+      "sevoy"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_bravos",
+    "description": "BITD.playbook_crew_bravos_description",
+    "long_description": "BITD.playbook_crew_bravos_long_description",
+    "experience_triggers": [
+      "Execute a successful battle, extortion, sabotage, or smash & grab operation"
+    ],
+    "special_abilities": [
+      "dangerous",
+      "blood brothers",
+      "door kickers",
+      "fiends",
+      "forged in the fire",
+      "patron",
+      "war dogs"
+    ],
+    "playbook_upgrades": [
+      "bravos rigging",
+      "ironhook contacts",
+      "elite rovers",
+      "elite thugs",
+      "hardened"
+    ],
+    "starting_upgrades": [
+      "prowess",
+      "thugs"
+    ],
+    "contacts": [
+      "meg",
+      "conway",
+      "keller",
+      "tomas",
+      "walker",
+      "lutes"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_cult",
+    "description": "BITD.playbook_crew_cult_description",
+    "long_description": "BITD.playbook_crew_cult_long_description",
+    "experience_triggers": [
+      "Advance the agenda of your deity or embody its precepts in action."
+    ],
+    "special_abilities": [
+      "chosen",
+      "anointed",
+      "bound in darkness",
+      "conviction",
+      "glory incarnate",
+      "sealed in blood",
+      "zealotry"
+    ],
+    "playbook_upgrades": [
+      "cult rigging",
+      "ritual sanctum in lair",
+      "elite adepts",
+      "elite thugs",
+      "ordained"
+    ],
+    "starting_upgrades": [
+      "resolve",
+      "BITD.adepts"
+    ],
+    "contacts": [
+      "gagan",
+      "adikin",
+      "hutchins",
+      "moriya",
+      "mateas kline",
+      "bennett"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_hawkers",
+    "description": "BITD.playbook_crew_hawkers_description",
+    "long_description": "BITD.playbook_crew_hawkers_long_description",
+    "experience_triggers": [
+      "Acquire product supply, execute clandestine/covert sales, or secure new territory."
+    ],
+    "special_abilities": [
+      "silver tongues",
+      "accord",
+      "the good stuff",
+      "ghost market",
+      "high society",
+      "hooked",
+      "patron"
+    ],
+    "playbook_upgrades": [
+      "hawkers rigging",
+      "ironhook contacts",
+      "elite rooks",
+      "elite thugs",
+      "composed"
+    ],
+    "starting_upgrades": [
+      "resolve",
+      "secure"
+    ],
+    "contacts": [
+      "rolan wott",
+      "laroze",
+      "lydra",
+      "hoxley",
+      "anya",
+      "marlo"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_shadows",
+    "description": "BITD.playbook_crew_shadows_description",
+    "long_description": "BITD.playbook_crew_shadows_long_description",
+    "experience_triggers": [
+      "Execute a successful espionage, sabotage, or theft operation."
+    ],
+    "special_abilities": [
+      "everyone steals",
+      "ghost echoes",
+      "pack rats",
+      "patron",
+      "second story",
+      "slippery",
+      "synchronized"
+    ],
+    "playbook_upgrades": [
+      "thief rigging",
+      "underground maps and passkeys",
+      "elite rooks",
+      "elite skulks",
+      "steady"
+    ],
+    "starting_upgrades": [
+      "prowess",
+      "hidden"
+    ],
+    "contacts": [
+      "dowler",
+      "laroze",
+      "amancio",
+      "fitz",
+      "adelaide phroaig",
+      "rigney"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_smugglers",
+    "description": "BITD.playbook_crew_smugglers_description",
+    "long_description": "BITD.playbook_crew_smugglers_long_description",
+    "experience_triggers": [
+      "Execute a successful smuggling or acquire new clients or contraband sources."
+    ],
+    "special_abilities": [
+      "like part of the family",
+      "all hands",
+      "ghost passage",
+      "just passing through",
+      "leverage",
+      "reavers",
+      "renegades"
+    ],
+    "playbook_upgrades": [
+      "smugglers rigging",
+      "camouflage",
+      "elite rovers",
+      "barge",
+      "steady"
+    ],
+    "starting_upgrades": [
+      "prowess",
+      "boat or carriage"
+    ],
+    "contacts": [
+      "elynn",
+      "rolan",
+      "sera",
+      "nyelle",
+      "decker",
+      "esme"
+    ],
+    "claims": []
+  },
+  {
+    "name": "BITD.playbook_crew_vigilantes",
+    "description": "BITD.playbook_crew_vigilantes_description",
+    "long_description": "BITD.playbook_crew_vigilantes_long_description",
+    "experience_triggers": [
+      "Interfere with criminal scores, protect citizens, or antagonize the law."
+    ],
+    "special_abilities": [
+      "as good as your word",
+      "avengers",
+      "thorn in your side",
+      "misdirection",
+      "uncanny preparation",
+      "moral compass",
+      "favors",
+      "roots"
+    ],
+    "playbook_upgrades": [
+      "vigilantes attire",
+      "dedicated crafters",
+      "willing to fight",
+      "irregulars",
+      "unbroken"
+    ],
+    "starting_upgrades": [
+      "resolve"
+    ],
+    "contacts": [
+      "mara",
+      "twelves",
+      "soren",
+      "remira",
+      "anis",
+      "badger"
+    ],
+    "claims": []
+  }
+]
