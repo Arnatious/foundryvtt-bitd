@@ -1,0 +1,19 @@
+<form autocomplete="off" class="{{cssClass}} flexcol">
+    {{!-- Sheet Header --}}
+    <header class="sheet-header">
+        <img src="{{actor.img}}" data-edit="img" class="profile-img" height="100" width="100"/>
+        <div class="header-fields">
+            <h1 class="charname"><input type="text" name="name" value="{{actor.name}}" placeholder="Name" /></h1>
+        </div>
+    </header>
+
+    {{!-- Sheet Tab Navigation --}}
+    <nav class="sheet-tabs tabs" data-group="primary">
+        <a class="item" data-tab="description">Description</a>
+    </nav>
+
+    {{!-- Sheet Body --}}
+    <section class="sheet-body">
+        <div class="flexrow">Test 1</div>
+    </section>
+</form>
