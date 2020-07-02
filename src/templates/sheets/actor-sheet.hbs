@@ -1,0 +1,45 @@
+<form autocomplete="off" class="{{cssClass}} flexcol">
+    {{!-- Sheet Header --}}
+    <header class="sheet-header">
+        <img src="{{actor.img}}" data-edit="img" class="profile-img" height="100" width="100"/>
+        <div class="header-fields">
+            <h1 class="charname"><input type="text" name="name" id="name" value="{{actor.name}}" placeholder="Name" /></h1>
+        </div>
+    </header>
+
+    {{!-- Sheet Tab Navigation --}}
+    <nav class="sheet-tabs tabs" data-group="primary">
+        <a class="item" data-tab="description">Description</a>
+    </nav>
+
+    {{!-- Sheet Body --}}
+    <section class="sheet-body">
+        <div class="flexrow">
+            <div class="flexcol">
+                <div class="logo"></div>
+                <div class="flexrow">
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=alias i18n="BITD.alias"}}
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=look i18n="BITD.look"}}
+                </div>
+                <div class="flexrow">
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=heritage i18n="BITD.heritage"}}
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=background i18n="BITD.background"}}
+                </div>
+                <div class="flexrow">
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=vice i18n="BITD.vice"}}
+                    {{> "systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs" attr=purveyor i18n="BITD.purveyor"}}
+                </div>
+                <div class="flexrow">
+                    <label for="stressrow" class="capitalize">{{ localize "BITD.stress" }}</label>
+                    <div class="stress-row">
+                        {{#range data.stress.max}}
+                            <input type="radio" name="stress" id="stress_{{@index}}" class="tooth stresstooth" value={{@index}} />
+                            <label for="stress_{{@index}}"></label>
+                        {{/range}}
+                    </div>
+                </div>
+            </div>
+            <div class="flexcol">right</div>
+        </div>
+    </section>
+</form>

@@ -13,6 +13,9 @@
 // Import TypeScript modules
 import { registerSettings } from './module/settings.js';
 import { preloadTemplates } from './module/preloadTemplates.js';
+import { loadHelpers } from "./module/helpers.js";
+import { BITDActor } from './module/actors/BITDActor.js';
+import { BITDActorSheet } from './module/sheets/BITDActorSheet.js';
 
 /* ------------------------------------ */
 /* Initialize system					*/
@@ -21,16 +24,21 @@ Hooks.once('init', async function() {
 	console.log('foundryvtt-bitd | Initializing foundryvtt-bitd');
 
 	// Assign custom classes and constants here
+	CONFIG.Actor.entityClass =  BITDActor;
+	// CONFIG.Item.entityClass = BITDItem;
 
 	// Register custom system settings
 	registerSettings();
+
+	// Preload Handlebars helpers
+	await loadHelpers();
 
 	// Preload Handlebars templates
 	await preloadTemplates();
 
 	// Register custom sheets (if any)
-	//Actors.unregisterSheet("core", ActorSheet);
-	//Actors.registerSheet("bitd", PlayCh)
+	Actors.unregisterSheet("core", ActorSheet);
+	Actors.registerSheet("foundryvtt-bitd", BITDActorSheet, { makeDefault: true })
 });
 
 /* ------------------------------------ */

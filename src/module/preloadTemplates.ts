@@ -1,6 +1,6 @@
 export const preloadTemplates = async function() {
 	const templatePaths = [
-		// Add paths to "systems/foundryvtt-bitd/templates"
+		"systems/foundryvtt-bitd/templates/sheets/parts/attr-field.hbs"
 	];
 
 	return loadTemplates(templatePaths);

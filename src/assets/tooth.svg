@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../foundryvtt-bitd.css" ?>
+<svg width="2.1556mm" height="7.0936mm" version="1.1" viewBox="0 0 2.1556 7.0936" xmlns="http://www.w3.org/2000/svg">
+  <g id="tooth" transform="translate(-92.989 -122.52)">
+    <path id="tooth-full" d="m93.081 122.61v6.8662l1.9756-0.93416v-5.932z" style="fill:none;stroke-width:.17639;stroke:#000"/>
+    <path id="tooth-top" d="m93.081 122.61h1.9756v2.5737l-1.979 0.85055z" style="stroke-width:.17639;stroke:#000"/>
+  </g>
+</svg>

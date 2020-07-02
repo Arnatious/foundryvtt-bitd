@@ -125,9 +125,15 @@
       "entity": "Item"
     }
   ],
-  "languages": [],
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.6.2",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "minimumCoreVersion": "0.6.4",
+  "compatibleCoreVersion": "0.6.4",
   "url": "",
   "manifest": "",
   "download": "",

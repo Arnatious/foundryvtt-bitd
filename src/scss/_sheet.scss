@@ -1,0 +1,17 @@
+* {
+    font-family: Georgia, "Bitstream Charter", "Times New Roman", serif;
+
+  div, span, textarea, ul, li, span, label {
+		box-sizing: border-box;
+  }
+
+  .capitalize {
+    text-transform: capitalize;
+  }
+
+  .attr-field {
+    input {
+      border-style: none none solid none;
+    }
+  }
+}
