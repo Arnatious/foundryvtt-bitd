@@ -33,8 +33,12 @@
                     <label for="stressrow" class="capitalize">{{ localize "BITD.stress" }}</label>
                     <div class="stress-row">
                         {{#range data.stress.max}}
-                            <input type="radio" name="stress" id="stress_{{@index}}" class="tooth stresstooth" value={{@index}} />
-                            <label for="stress_{{@index}}"></label>
+                            <div class="stress-box tooth" id="stress-box-{{@index}}">
+                                <input type="radio" name="stress" id="stress_{{@index}}" class="radio-tooth " value={{@index}} />
+                                <label for="stress_{{@index}}">
+                                    <object data="systems/foundryvtt-bitd/assets/tooth.svg" type="image/svg+xml" class="svg-tooth-stress"> </object>
+                                </label>
+                            </div>
                         {{/range}}
                     </div>
                 </div>

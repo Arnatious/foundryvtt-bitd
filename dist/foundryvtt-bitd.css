@@ -1,5 +1,42 @@
-/* ------------------------------------ */
-/*					CSS					*/
-/*  	  Add your styles here			*/
-/* ------------------------------------ */
+* {
+  font-family: Georgia, "Bitstream Charter", "Times New Roman", serif;
+}
 
+div, span, textarea, ul, li, span, label {
+  box-sizing: border-box;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.attr-field input {
+  border-style: none none solid none;
+}
+
+svg .tooth-full {
+  fill: none;
+  stroke-width: 0.17639;
+  stroke: #000;
+}
+svg .tooth-top {
+  stroke-width: 0.17639;
+  stroke: #000;
+}
+
+.tooth {
+  display: inline-block;
+}
+.tooth input {
+  opacity: 0;
+  width: 2.1556mm;
+  height: 7.0936mm;
+  margin: 0;
+  display: block;
+}
+.tooth input + label {
+  cursor: pointer;
+}
+.tooth input:checked + label .tooth-full {
+  fill: red;
+}

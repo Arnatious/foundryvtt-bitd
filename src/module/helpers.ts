@@ -14,7 +14,21 @@ const helpers = new Map<string, Handlebars.HelperDelegate>([
             ret += options.fn(this, { data: data })
         }
         return ret;
-    }]
+    }],
+    ["multiboxes", function (selected, options) {
+
+        let html = options.fn(this);
+
+        selected.forEach((selected_value: string | boolean) => {
+            if (typeof selected_value === "string") {
+                const escapedValue = RegExp('').escape(Handlebars.escapeExpression(selected_value));
+                const rgx = new RegExp(' value=\"' + escapedValue + '\"');
+                html = html.replace(rgx, "$& checked=\"checked\"");
+            }
+        });
+        return html;
+    }
+    ]
 ])
 
 

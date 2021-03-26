@@ -1,17 +1,56 @@
+$tooth-width: 2.1556mm;
+$tooth-height: 7.0936mm;
+
 * {
-    font-family: Georgia, "Bitstream Charter", "Times New Roman", serif;
+  font-family: Georgia, "Bitstream Charter", "Times New Roman", serif;
+}
 
-  div, span, textarea, ul, li, span, label {
-		box-sizing: border-box;
+div, span, textarea, ul, li, span, label {
+  box-sizing: border-box;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.attr-field {
+  input {
+    border-style: none none solid none;
+  }
+}
+
+svg {
+  .tooth-full {
+    fill: none;
+    stroke-width: .17639;
+    stroke: #000;
   }
 
-  .capitalize {
-    text-transform: capitalize;
+  .tooth-top {
+    stroke-width:.17639;
+    stroke: #000;
   }
+}
 
-  .attr-field {
-    input {
-      border-style: none none solid none;
+.tooth{
+  display: inline-block;
+  input {
+    opacity: 0;
+    width: $tooth-width;
+    height: $tooth-height;
+    margin: 0;
+    display: block;
+
+    + label {
+      cursor: pointer;
+    }
+
+    &:checked {
+      + label {
+        .tooth-full {
+          fill: red;
+        }
+      }
     }
   }
 }
